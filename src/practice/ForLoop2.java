@@ -1,7 +1,7 @@
-package B1;
+package practice;
 import java.util.Scanner;
 // Task: Given an integer, N, print its first 10 multiples. Each multiple N x i (where 1<=i<=10) should be printed on a new line in the form: N x i = result.
-public class For_loop {
+public class ForLoop2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int N = input.nextInt();

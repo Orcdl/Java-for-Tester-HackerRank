@@ -1,10 +1,8 @@
-package B2;
-
-import java.util.Scanner;
+package practice;
 
 // input 1 number ; sum from one to that number
 // Example number is 49
-public class B2_Q1 {
+public class ForLoop1 {
 
     public static void main(String[] args) {
         int number = 49;
